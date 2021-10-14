@@ -15,7 +15,7 @@ Test Data Variable Definition ID Unique Identifier for a row Store_id Unique id 
 
 
 ## Algorithm
-**I have created this project in different algorithms. The accuracy of the project varies according to the algorithm. Below, are the listed algorithms that i have used in the project. Among them the XGboost have the highest accuracy of the project which is _82.57%._**
+**I have created this project in different algorithms. The accuracy of the project varies according to the algorithm. Below, are the listed algorithms that i have used in the project. Among them the XGboost have the highest accuracy which is _82.57%._**
 
 > - XGBoost
 > - Random Forest
